@@ -35,5 +35,4 @@ jobs:
       # Run the Python script
       - name: Run Python Script
         run: |
-          python script.py
-
+          python main.py
